@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/input/images/*
+!data/input/images/README.txt
+data/input/video/*
+!data/input/video/README.txt
+outputs/*
+!outputs/.gitkeep
+*.pt
